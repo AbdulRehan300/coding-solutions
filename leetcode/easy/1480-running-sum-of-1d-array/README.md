@@ -46,9 +46,9 @@ Output: [3,4,6,16,17]
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 12.4 MB (beats 96.29%)  
-**Submitted:** 2026-11-19T13:22:16.271Z  
+**Runtime:** 2 ms (beats 5.75%)  
+**Memory:** 12.5 MB (beats 44.74%)  
+**Submitted:** 2026-11-19T13:23:32.670Z  
 
 ```cpp
 class Solution {
